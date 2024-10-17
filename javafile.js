@@ -20,8 +20,7 @@ function closePopup() {
   a.style.display = "inline-block";
   // a.style.align-items = "center";
 }
-function myfunction(show) {
-  if (show) {
+function myfunction() {
+  
     a.style.visibility = "visible";
-  }
 }
